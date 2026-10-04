@@ -1,0 +1,6 @@
+{
+  "name": "REEMPLAZAR: nombre de la coleccion",
+  "chain": "ethereum",
+  "address": "0x0000000000000000000000000000000000000000",
+  "note": "Los admin revisan manualmente que cada wallet tenga NFTs de esta coleccion."
+}
